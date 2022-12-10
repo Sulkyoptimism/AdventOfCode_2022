@@ -13,3 +13,7 @@ export function getOrdefaultStack(stack: Stack<string>, def: string) {
     return stack.peek();
   }
 }
+
+export function hasNumber(myString: string) {
+  return /\d/.test(myString);
+}
