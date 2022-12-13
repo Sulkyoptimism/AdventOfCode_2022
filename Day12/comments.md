@@ -1,0 +1,2 @@
+# Day12 
+Yeah im a day late and its mostly adapted from someones python answer, i really struggled with this one, but i will try catch up. I need to learn more about computer programming theory for this one.
